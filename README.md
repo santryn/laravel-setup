@@ -69,6 +69,11 @@ I have included some starter templates for general and user-related layouts. The
 
 I have updated the User model to utilise Confide.
 
+### 6. Migrations
+*apps/database/migrations*
+
+Migration files for Entrust and Confide are generated and ready for migration once the database has been configured.
+
 #Installation Instructions
 
 1. Download or clone the laravel-setup directory and rename it as per your naming scheme.
