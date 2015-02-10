@@ -1,5 +1,5 @@
 # laravel-setup
-My default Laravel 4.2 setup, ready for creating a site with user setup/authentication and/or RESTful web services. This is the setup I use to kick off most of my Laravel based projects where RESTful services and user roles/authentication functionality is high priority.
+My default Laravel 4.2 setup, ready for creating a site with user setup/authentication and/or RESTful web services. This is the setup I use to kick off most of my Laravel based projects where RESTful services and user roles/authentication are high priority.
 
 ## Includes:
 
